@@ -8,5 +8,5 @@ Tive dificuldade com o desenvolvimento do aplicativo pois nunca trabalhei com de
 
 App apresenta uma peculiaridade, por algum motivo o mesmo não funciona em algum tipos de dispositios de AVD, por exemplo eu consigo criar uma maquina com Android 7.1.1 e o App funciona perfeitamente porem no dispositivo Pixel VL Android 10.0, não. Não sei como solicionar este erro e mesmo utilizando trecho de codigos como referencia não foi possivel corrigir.
 
-Muito obrigado pelo apoio e conheciemnto nessa jornada.
+Muito obrigado pelo apoio e conheciemento nessa jornada.
 Paulo Pavan Damasco
