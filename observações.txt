@@ -16,6 +16,6 @@ A estrategia utilizada ara o desenvolvimento do app foi importar bibliotecas que
 
 
 
-Muito obrigado pelo apoio e conheciemento nessa jornada.
+Muito obrigado pelo apoio e conhecimento nessa jornada.
 
 Paulo Pavan Damasco
