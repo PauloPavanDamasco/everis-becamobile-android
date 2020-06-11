@@ -1,13 +1,12 @@
 Prezados,
-meu App esta disponivel no Drive, Everisgroup pelo link abaixo, devido a eu n„o conseguir efetuar o upload dos arquivos para o GitHub, o nome do arquivo/projeto .zip È CatalogFlix.
+meu App esta disponivel no Drive, Everisgroup pelo link abaixo, devido a eu n√£o conseguir efetuar o upload dos arquivos para o GitHub, o nome do arquivo/projeto .zip √© CatalogFlix.
 
 link: https://everisgroup-my.sharepoint.com/personal/bcaetans_everis_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbcaetans%5Feveris%5Fcom%2FDocuments%2Feveris%2Dbecamobile%2Dandroid&originalPath=aHR0cHM6Ly9ldmVyaXNncm91cC1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9iY2FldGFuc19ldmVyaXNfY29tL0VqaEs3RGh1NWZCS3FDZWlheDJBLWEwQmg2b0JyNWJPUnl3RXR0VVpYeUxZUEE_cnRpbWU9NUI1QzBDUU8yRWc
 
-ConsideraÁıes finais:
+Considera√ß√µes finais:
+Tive dificuldade com o desenvolvimento do aplicativo pois nunca trabalhei com desenvolvimento de apps, Android e IOS e por sorte obtive muito conhecimento e material na internet e ate mesmo referencias a traves de sites e forums onde usu√°rios ja discutiram sobre a API do TMDB.
 
-Tive dificuldade com o desenvolvimento do aplicativo pois nunca trabalhei com desenvolvimento de apps, Android e IOS e por sorte obtive muito conhecimento e material na internet e ate mesmo referencias a traves de sites e forums onde usu·rios ja discutiram sobre a API do TMDB.
-
-App apresenta uma peculiaridade, por algum motivo o mesmo n„o funciona em algum tipos de dispositios de AVD, por exemplo eu consigo criar uma maquina com Android 7.1.1 e o App funciona perfeitamente porem no dispositivo Pixel VL Android 10.0, n„o. N„o sei como solicionar este erro e mesmo utilizando trecho de codigos como referencia n„o foi possivel corrigir.
+App apresenta uma peculiaridade, por algum motivo o mesmo n√£o funciona em algum tipos de dispositios de AVD, por exemplo eu consigo criar uma maquina com Android 7.1.1 e o App funciona perfeitamente porem no dispositivo Pixel VL Android 10.0, n√£o. N√£o sei como solicionar este erro e mesmo utilizando trecho de codigos como referencia n√£o foi possivel corrigir.
 
 Muito obrigado pelo apoio e conheciemnto nessa jornada.
 Paulo Pavan Damasco
